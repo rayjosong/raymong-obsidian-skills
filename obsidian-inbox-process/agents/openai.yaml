@@ -1,0 +1,4 @@
+interface:
+  display_name: "Process Selected Inbox Notes"
+  short_description: "Enrich and connect selected Obsidian Inbox notes"
+  default_prompt: "Use $obsidian-inbox-process to process only the Inbox notes I explicitly select, preserving their content and proposing any higher-impact changes."

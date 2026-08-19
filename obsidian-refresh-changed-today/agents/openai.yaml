@@ -1,0 +1,4 @@
+interface:
+  display_name: "Refresh Changed Today"
+  short_description: "Refresh today's changed-note list in Obsidian"
+  default_prompt: "Use $obsidian-refresh-changed-today to refresh the Changed Today section of the current daily note."

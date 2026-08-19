@@ -1,0 +1,4 @@
+interface:
+  display_name: "Meeting Action Items"
+  short_description: "Find evidence-backed actions in Google meeting notes"
+  default_prompt: "Use $obsidian-meeting-action-items to find action items assigned to me in the specified date's Google meeting notes and cite the evidence."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Capture Text to Obsidian"
+  short_description: "Save verbatim text as safe inbox captures"
+  default_prompt: "Use $obsidian-capture-text to save this text verbatim in my Obsidian inbox and return a receipt."

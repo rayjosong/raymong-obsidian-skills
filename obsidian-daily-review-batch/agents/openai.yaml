@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Daily Review Batch"
+  short_description: "Run the single end-of-day review queue"
+  default_prompt: "Use $obsidian-daily-review-batch to process today into one approval-ready review queue."

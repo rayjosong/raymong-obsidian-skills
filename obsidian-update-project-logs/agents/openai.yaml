@@ -1,0 +1,4 @@
+interface:
+  display_name: "Update Project Logs"
+  short_description: "Propose sourced updates to existing project logs"
+  default_prompt: "Use $obsidian-update-project-logs to propose deduplicated project-log entries from the specified daily note, and wait for approval before appending them."

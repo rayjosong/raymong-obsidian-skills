@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Weekly Review"
+  short_description: "Draft an evidence-linked weekly vault review"
+  default_prompt: "Use $obsidian-weekly-review to draft this ISO week’s review without applying any follow-up proposals."

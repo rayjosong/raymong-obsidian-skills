@@ -1,0 +1,4 @@
+interface:
+  display_name: "Work Evidence Ingestion"
+  short_description: "Ingest Slack and Meet evidence for daily review"
+  default_prompt: "Use $obsidian-collect-work-highlights to ingest today's work-highlight evidence without creating an approval queue."

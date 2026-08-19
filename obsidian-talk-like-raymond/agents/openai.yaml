@@ -1,0 +1,4 @@
+interface:
+  display_name: "Talk Like Raymond"
+  short_description: "Draft short messages in Raymond's natural voice"
+  default_prompt: "Use $obsidian-talk-like-raymond to draft this message in Raymond's appropriate professional or casual register."

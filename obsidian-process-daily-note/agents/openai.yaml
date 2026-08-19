@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Process Daily Note"
+  short_description: "Synthesize one daily note section"
+  default_prompt: "Use $obsidian-process-daily-note to refresh only the AI Synthesis section of today’s daily note."

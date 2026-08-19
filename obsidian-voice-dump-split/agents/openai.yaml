@@ -1,0 +1,4 @@
+interface:
+  display_name: "Split Voice Dump"
+  short_description: "Preserve and classify a transcribed voice dump"
+  default_prompt: "Use $obsidian-voice-dump-split to preserve this transcription verbatim, then propose classifications through the daily-review workflow."

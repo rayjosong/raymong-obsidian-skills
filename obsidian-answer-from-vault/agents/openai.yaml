@@ -1,0 +1,4 @@
+interface:
+  display_name: "Answer from Obsidian Vault"
+  short_description: "Answer questions with vault citations"
+  default_prompt: "Use $obsidian-answer-from-vault to answer my question from my Obsidian notes with source links."

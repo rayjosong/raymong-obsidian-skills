@@ -1,0 +1,4 @@
+interface:
+  display_name: "Update Person Logs"
+  short_description: "Propose sourced updates to existing Person logs"
+  default_prompt: "Use $obsidian-update-person-logs to propose deduplicated person-log entries from the specified daily note, and wait for approval before appending them."
